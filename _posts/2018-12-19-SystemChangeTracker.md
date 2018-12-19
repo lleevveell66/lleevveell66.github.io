@@ -1,11 +1,15 @@
 ---
 layout: post
-title: SystemChangeTracker
+title: System Change Tracker
 subtitle: Get Email Alerts When Your System Files are Changed
 gh-repo: lleevveell66/lleevveell66.github.io
 gh-badge: [star, fork, follow]
 tags: [cron, script, blue team, alerting]
 ---
+
+## Purpose
+
+This simple script will email you when changes to system files are detected in a RedHat/CentOS system.  It requires the RPM tool.
 
 ## Installation
 
@@ -81,4 +85,4 @@ chmod 755 /etc/cron.hourly/CheckForSystemChanges
 /usr/bin/rpm -Va > /tmp/SysChangeTracker.new
 ```
 
-Now, edit /etc/cron.hourly/CheckForSystemChanges and change the EMAIL_FROM and EMAIL_TO values to suit your needs.
+Now, edit /etc/cron.hourly/CheckForSystemChanges and change the `EMAIL_FROM` and `EMAIL_TO` values to suit your needs.
