@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go on a drunken binger with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am level6 of LIE.  My turn-ons include (but are in no way limited to):
+- A hot data closet on a cold Winter day
+- A cold datacenter on a hot Summer day
+- Red Team
+- Blue Team
+- Purple Team
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a Purple Team master.  Some have called it "offensive security."  My hat is a hypnotic kaleidoscope of color.  I will do whatever it takes to free the impoverished information of the world. Information wants to be free!
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
